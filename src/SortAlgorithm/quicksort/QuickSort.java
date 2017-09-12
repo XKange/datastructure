@@ -1,6 +1,7 @@
 package SortAlgorithm.quicksort;
 
 /*
+最坏情况：O(n^2) 最佳情况：O( nlg(n) )
 快速排序的基本实现
 快速排序算法是一种基于交换的高效的排序算法，它采用了分治法的思想：
 
